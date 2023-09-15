@@ -33,4 +33,4 @@ app.post("/summary", async (request, response) => {
   }
 })
 
-app.listen(5173, () => console.log("Server is running on port 3333"))
+app.listen(5173, () => console.log("Server is running on port 5173"))
